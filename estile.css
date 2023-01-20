@@ -1,0 +1,27 @@
+.menu{
+    background-color: rgb(162, 206, 224);
+}
+.game{
+    background-color: rgb(162, 206, 224);
+    border:solid;
+
+}
+.game:hover{
+    opacity: 0.5;
+}
+.tudo{
+    display: flex;
+    justify-content: space-around;
+   flex-wrap: wrap;
+
+}
+*{
+   /* border:solid; */
+   
+}
+img{
+    border-radius: 200px;
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1207017851/vector/game-background-with-gamepad-and-graphic-elements-joystick-sign-outline-design.jpg?s=612x612&w=0&k=20&c=GruqkCPCk5t3-eoCsUySViGHy6p57ul0ob2M6DMYvhw=");
+}
